@@ -1,0 +1,6 @@
+{
+  "name": "AI Assistant",
+  "description": "Your Intelligent Co-Pilot for Voice. Empowering communication through real-time accessibility assistance and smart transcription. Listen silently with speech-to-text, and speak out loud by typing in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
